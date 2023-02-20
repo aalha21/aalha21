@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Abdulrahman Alharbi
-- 👀 I’m interested ...
+- 👋 Hi, I’m Abdulrahman Alharbi.
+- 👀 I’m interested learn more about Java.
 - 🌱 I’m currently learning C++ and C.
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: Abdulfh96@gmail.com
 
 <!---
